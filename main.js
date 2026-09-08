@@ -1,9 +1,8 @@
 const { app, BrowserWindow, shell } = require('electron');
 const path = require('path');
 
-// The live site this app wraps. Update this one line if/when the domain
-// migration to scratchnews.net happens.
-const SITE_URL = 'https://scratchnews.freedev.app/';
+// The live site this app wraps.
+const SITE_URL = 'https://scratchnews.net/';
 const SITE_HOST = new URL(SITE_URL).hostname;
 
 // Google's Identity Services library detects and refuses to run under a user agent

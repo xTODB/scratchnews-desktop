@@ -2,7 +2,7 @@
   "name": "scratchnews-desktop",
   "productName": "ScratchNews",
   "version": "1.0.0",
-  "description": "Desktop app wrapper for ScratchNews (scratchnews.freedev.app)",
+  "description": "Desktop app wrapper for ScratchNews (scratchnews.net)",
   "main": "main.js",
   "author": "TODB",
   "license": "UNLICENSED",

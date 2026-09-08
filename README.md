@@ -1,6 +1,6 @@
 # ScratchNews Desktop
 
-A thin Electron wrapper around scratchnews.freedev.app — opens the live site
+A thin Electron wrapper around scratchnews.net — opens the live site
 in its own window with a proper app icon and taskbar/dock entry. It's not a
 separate codebase to maintain: whatever changes on the live PHP site shows up
 here automatically, since this just loads the real URL.
